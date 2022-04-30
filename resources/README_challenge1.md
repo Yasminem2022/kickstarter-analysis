@@ -11,13 +11,13 @@ The purpose of this analysis was to determine how different campaigns fared in r
 ### Analysis of Outcomes Based on Launch Date
 1. My first step was to create a new column titles "Years" in the Kickstarter worksheet. I used the Year() function and referenced the "Date Created Conversion" column to extract the years.### Analysis of Outcomes Based on Launch Date
 2. Next, I created a pivot table where I was able to use "Parent Category," "Years," and "outcomes" to create a line chart.
-![Theater_Outcomes_vs_Launch]("Theater_Outcomes_vs_Launch.png")
+![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
 ---
 ### Analysis of Outcomes Based on Goals
 1. In order to create an "Outcomes Based on Goals" chart, I first needed to create a new worksheet with the same name
 I added column headers, and dollar-amount ranges before performing any functions(i.e.COUNTIFS(),SUM(),ROUND()).
 2. From the completed table, I was able to create the following line chart
-![Outcomes_vs_Goals]("Outcomes_vs_Goals.png")
+![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
 ---
 
 ### Challenges and Difficulties Encountered
