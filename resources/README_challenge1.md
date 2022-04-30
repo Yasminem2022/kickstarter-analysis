@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-After Louise's play came close to reaching it's goal quickly, she wanted to understand the campaign outcomes based on their launch dates and funding goals.
+*After Louise's play came close to reaching it's goal quickly, she wanted to understand the campaign outcomes based on their launch dates and funding goals.*
 ### Purpose
 The purpose of this analysis was to determine how different campaigns fared in relation to their launch dates and their funding goals
 ---
