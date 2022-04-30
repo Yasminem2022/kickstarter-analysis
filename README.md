@@ -2,10 +2,10 @@
 Performing analysis on Kickstarter data to uncover trends
 ---
 # Parent Category Outcomes 
-![PCO](Parent Category Outcomes.png)
+![PCO](ParentCategoryOutcomes.png)
 ---
 # Subcategory Outcomes
-![SCO](Subcategory Outcomes.png)
+![SCO](SubcategoryOutcomes.png)
 ---
 # Outcomes Based on Lanch Date
 ![OBLD](OutcomesBasedonLaunchDate.png)
