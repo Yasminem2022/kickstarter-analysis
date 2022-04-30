@@ -2,13 +2,13 @@
 Performing analysis on Kickstarter data to uncover trends
 ---
 # Parent Category Outcomes 
-![Viz1](Parent Category Outcomes.png)
+![PCO](Parent Category Outcomes.png)
 ---
 # Subcategory Outcomes
-![Viz2](Subcategory Outcomes.png)
+![SCO](Subcategory Outcomes.png)
 ---
 # Outcomes Based on Lanch Date
-![Viz3](Outcomes Based on Launch Date.png)
+![OBLD](Outcomes Based on Launch Date.png)
 ---
 # Recommendations/Comments
 - Plays are one of the most successful crowdfunding campaign categories in the US, so you're on the right track!
